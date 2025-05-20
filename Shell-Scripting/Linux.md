@@ -1,1 +1,0 @@
-HI this linux command promotions file
