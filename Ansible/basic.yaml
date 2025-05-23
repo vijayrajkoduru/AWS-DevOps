@@ -1,0 +1,15 @@
+- name:  vijay
+  email:  kumar@gmail.com
+  country: India
+
+- address: perm
+  city: bangalore
+  state: karnataka
+  country: India
+  pincode: 560001
+
+- address: perm
+  city: bangalore 
+  state: karnataka
+  country: India
+  
